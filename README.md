@@ -14,6 +14,9 @@ rails server
 ```
 Open [http://localhost:3000](http://localhost:3000)
 
+## Docs
+[[Rails] Upload File with carrierwave](http://jiunjiun.logdown.com/posts/2013/12/01/rails-upload-file-with-carrierwave)
+
 ## Copyright / License
 * Copyright (c) 2013 jiunjiun (quietmes At gmail.com)
 * Licensed under [Apache](http://www.apache.org/licenses/) licenses.
